@@ -1,3 +1,10 @@
+/*
+ * Copyright © 2019 Patrick Rademacher
+ * [This program is licensed under the "MIT License"]
+ * Please see the file LICENSE in the source
+ * distribution of this software for license terms.
+ */
+
 //Patrick Rademacher (c) 2019
 //Professor Bryant York
 //Portland State University

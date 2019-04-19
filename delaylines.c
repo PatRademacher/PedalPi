@@ -1,3 +1,10 @@
+/*
+ * Copyright © 2019 Patrick Rademacher
+ * [This program is licensed under the "MIT License"]
+ * Please see the file LICENSE in the source
+ * distribution of this software for license terms.
+ */
+
 #include "delaylines.h"
 #define sample_delay 10
 double * all_pass_filter(double * input_signal, double * output_signal, double gain, double ** IST, double ** OST, int * ISC, int * OSC, int index)
